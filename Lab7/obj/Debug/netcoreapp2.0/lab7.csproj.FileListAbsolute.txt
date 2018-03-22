@@ -1,0 +1,11 @@
+C:\Users\yichu\Documents\Projects\DotNet\TA\Lab7\lab7\bin\Debug\netcoreapp2.0\lab7.deps.json
+C:\Users\yichu\Documents\Projects\DotNet\TA\Lab7\lab7\bin\Debug\netcoreapp2.0\lab7.runtimeconfig.json
+C:\Users\yichu\Documents\Projects\DotNet\TA\Lab7\lab7\bin\Debug\netcoreapp2.0\lab7.runtimeconfig.dev.json
+C:\Users\yichu\Documents\Projects\DotNet\TA\Lab7\lab7\bin\Debug\netcoreapp2.0\lab7.dll
+C:\Users\yichu\Documents\Projects\DotNet\TA\Lab7\lab7\bin\Debug\netcoreapp2.0\lab7.pdb
+C:\Users\yichu\Documents\Projects\DotNet\TA\Lab7\lab7\obj\Debug\netcoreapp2.0\lab7.csprojResolveAssemblyReference.cache
+C:\Users\yichu\Documents\Projects\DotNet\TA\Lab7\lab7\obj\Debug\netcoreapp2.0\lab7.csproj.CoreCompileInputs.cache
+C:\Users\yichu\Documents\Projects\DotNet\TA\Lab7\lab7\obj\Debug\netcoreapp2.0\lab7.AssemblyInfoInputs.cache
+C:\Users\yichu\Documents\Projects\DotNet\TA\Lab7\lab7\obj\Debug\netcoreapp2.0\lab7.AssemblyInfo.cs
+C:\Users\yichu\Documents\Projects\DotNet\TA\Lab7\lab7\obj\Debug\netcoreapp2.0\lab7.dll
+C:\Users\yichu\Documents\Projects\DotNet\TA\Lab7\lab7\obj\Debug\netcoreapp2.0\lab7.pdb
